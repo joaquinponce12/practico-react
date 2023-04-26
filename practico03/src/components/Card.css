@@ -1,0 +1,35 @@
+.card {
+  width: 200px;
+  height: 600px;
+  background-color: #1a1a1a !important;
+}
+.card:hover {
+  box-shadow: 5px 10px 20px 1px rgba(40, 255, 255, 0.273) !important;
+  transition: all 0.7s linear;
+}
+
+.card-body {
+  padding: 1rem 5 !important;
+}
+
+.card-text {
+  padding: 0.3rem 1rem;
+  font-size: 1.5rem;
+  border-bottom: 2px solid #fff;
+  padding-bottom: 10px;
+}
+
+.overflow {
+  overflow: hidden;
+}
+.cardtop {
+  color: aliceblue;
+  font-family: cursive;
+  border-bottom: 2px solid #fff;
+  padding-bottom: 10px;
+}
+.cardfoot {
+  color: aliceblue;
+  font-family: cursive;
+  font-size: 50px;
+}

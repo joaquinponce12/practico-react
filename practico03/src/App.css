@@ -1,0 +1,17 @@
+.loginsignup {
+  align-content: center;
+  margin: 0 auto;
+  padding: 4rem;
+  padding-top: 8rem;
+  text-align: center;
+  width: 400px;
+  height: 400px;
+}
+.home {
+  align-content: center;
+  margin: 0 auto;
+  padding: 4rem;
+  padding-top: 8rem;
+  text-align: center;
+  min-height: 1000px;
+}
